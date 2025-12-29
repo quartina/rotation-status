@@ -1,7 +1,7 @@
 const { Client } = require('discord.js-selfbot-v13');
 const client = new Client();
 
-const TOKEN = '';
+const TOKEN = 'ENTER YOUR TOKEN HERE';
 const stati = [
     "Hello",
     "Made by Attila",
@@ -45,4 +45,5 @@ client.on('ready', () => {
 });
 
 client.login(TOKEN);
+
 
