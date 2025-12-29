@@ -1,3 +1,5 @@
+# Discord Support: https://discord.gg/JKWN5Ybh8Q
+
 # 🚀 Discord Dynamic Animated Status
 
 A high-performance Node.js tool to rotate your Discord Custom Status using direct HTTP API requests.
